@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hey, I'm Prince Johnson
 
-<!--
-**PRINCE308-HUB/PRINCE308-HUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | 🔐 Cybersecurity Learner
 
-Here are some ideas to get you started:
+I enjoy creating **interactive web experiences**, experimenting with animations,
+and exploring the world of **security & hacking**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+* 🔐 Cybersecurity & Ethical Hacking
+* 🌐 Advanced Frontend Development
+* ⚡ JavaScript & React
+* 🧠 Problem Solving
+
+---
+
+## 🧩 Projects
+
+### 🌐 Portfolio Website
+
+A modern personal portfolio with animations and clean UI
+Built using HTML, CSS, JavaScript, Tailwind
+
+---
+
+### 🧠 Future Goals
+
+* Create Security Tools
+* Learn Advanced Exploitation
+
+---
+
+## 🛠️ Tech Stack (DIFFERENT + CLEAN)
+
+**Languages**
+
+* JavaScript
+* Python
+* C
+
+**Frontend**
+
+* HTML5
+* CSS3
+* Tailwind CSS
+* React
+
+**Tools & Environment**
+
+* VS Code
+* Git & GitHub
+* Linux
+
+**Cybersecurity**
+
+* Kali Linux
+* Bash
+* Networking Basics
+
+---
+
+## 📫 Connect With Me
+
+* 💼 GitHub: https://github.com/PRINCE308-HUB
+* 📧 Email: prince308j@gmail.com
+* 🔗 LinkedIn: https://www.linkedin.com/in/prince-johnson-48a061266/
+
+---
+
+⭐ *Building cool things and leveling up every day.*
