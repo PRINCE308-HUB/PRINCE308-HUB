@@ -61,4 +61,4 @@ Built using HTML, CSS, JavaScript, Tailwind
 ---
 
 ⭐ *Building cool things and leveling up every day.*
-](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
