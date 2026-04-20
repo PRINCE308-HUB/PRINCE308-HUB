@@ -1,4 +1,4 @@
-[# 👋 Hey, I'm Prince Johnson
+# 👋 Hey, I'm Prince Johnson
 
 💻 Web Developer | 🔐 Cybersecurity Learner
 
