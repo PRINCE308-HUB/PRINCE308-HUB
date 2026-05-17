@@ -16,22 +16,6 @@ and exploring the world of **security & hacking**.
 
 ---
 
-## 🧩 Projects
-
-### 🌐 Portfolio Website
-
-A modern personal portfolio with animations and clean UI
-Built using HTML, CSS, JavaScript, Tailwind
-
----
-
-### 🧠 Future Goals
-
-* Create Security Tools
-* Learn Advanced Exploitation
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
